@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Compose-PoC</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="share">Share</string>
+    <string name="features">Features</string>
+
+
+    <string name="toast">Toast</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="detail">Detail</string>
+    <string name="calendar">Calendar</string>
+    <string name="pager">Pager (ViewPager)</string>
+    <string name="bottom_navigation_view">Bottom Navigation View</string>
+    <string name="alert_dialog">Alert Dialog</string>
+</resources>
